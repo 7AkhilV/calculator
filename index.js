@@ -12,4 +12,4 @@ function finalResult(){
     screen.value = result
 }
 
-alert("Type the numbers to calculate")
+alert("calculate now or never 😊")
